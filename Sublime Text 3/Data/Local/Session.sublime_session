@@ -1896,11 +1896,18 @@
 			"expanded_folders":
 			[
 				"/Q/Users/Hsu/Documents/GitHub",
+				"/Q/Users/Hsu/Documents/GitHub/Note",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Sublime Text 3",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Sublime Text 3/Data",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Sublime Text 3/Data/Packages",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Sublime Text 3/Data/Packages/User",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm"
 			],
 			"file_history":
 			[
+				"/Q/Users/Hsu/Documents/GitHub/Note/Sublime Text 3/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/example.md",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/InjectDll.cpp",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/myhacker.cpp",
@@ -2026,9 +2033,7 @@
 				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch14 work.asm",
 				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch10 ex2.asm",
 				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch10 ex1.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch9 ex2.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch9 ex1.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch8 ex.asm"
+				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch9 ex2.asm"
 			],
 			"find":
 			{
@@ -2237,8 +2242,8 @@
 								"selection":
 								[
 									[
-										33901,
-										33901
+										8062,
+										8062
 									]
 								],
 								"settings":
@@ -2248,12 +2253,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												8059,
+												8062
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/dot.png",
+												"brackethighlighter.default"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												7733,
+												7736
+											]
 										},
 										"unmatched":
 										{
@@ -2261,68 +2281,70 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
 									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 23799.0,
+								"translation.y": 5780.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2375,7 +2397,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,786,130,187,1210",
+			"position": "0,2,3,-32000,-32000,-1,-1,786,130,187,1210",
 			"project": "",
 			"replace":
 			{
