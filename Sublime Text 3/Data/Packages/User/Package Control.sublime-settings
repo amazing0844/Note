@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"auto-save",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"ClangAutoComplete",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"HTML5",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"MasmAssembly",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Table Editor",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Web Audio API Autocomplete"
+	]
+}
