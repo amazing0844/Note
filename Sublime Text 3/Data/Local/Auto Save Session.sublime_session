@@ -1663,7 +1663,7 @@
 					"file": "/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
 					"settings":
 					{
-						"buffer_size": 43565,
+						"buffer_size": 44457,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -1896,11 +1896,15 @@
 			"expanded_folders":
 			[
 				"/Q/Users/Hsu/Documents/GitHub",
+				"/Q/Users/Hsu/Documents/GitHub/Note",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm"
 			],
 			"file_history":
 			[
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/README.md",
+				"/Q/Users/Hsu/Desktop/root.png",
+				"/Q/Users/Hsu/Documents/GitHub/test.lsp",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/EjectDll.cpp",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/myhacker.cpp",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
@@ -2025,10 +2029,7 @@
 				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
 				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/OmniMarkupPreviewer.sublime-settings",
 				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/samples/README.md",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/DisAsm/hello.cpp",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch15 prac.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch14 work.asm"
+				"/Q/Users/Hsu/Desktop/学习相关/Code/DisAsm/hello.cpp"
 			],
 			"find":
 			{
@@ -2047,6 +2048,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"JZD",
+					"ssget",
+					"zdarea",
+					"getvar",
+					"getreal",
+					"zdt",
+					"command \"layer\" \"m\" \"JZD\"",
+					"ommand \"layer\"",
 					"钩子链表",
 					"（(.*?)）",
 					"，",
@@ -2166,15 +2175,7 @@
 					"topliner",
 					"totcov2",
 					"top tth\"",
-					"rdpshps",
-					"topliner",
-					"rdpshps",
-					"秒伤",
-					"[];\n",
-					"dpsmeter",
-					"hpsmeter",
-					"dpsmeter",
-					"cont_name"
+					"rdpshps"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2233,15 +2234,19 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 43565,
+								"buffer_size": 44457,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										43565,
-										43565
+										44455,
+										44455
+									],
+									[
+										44456,
+										44456
 									]
 								],
 								"settings":
@@ -2265,6 +2270,26 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -2275,6 +2300,11 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -2285,16 +2315,6 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -2304,29 +2324,16 @@
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
+										"bh_square_content"
 									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 32860.0,
+								"translation.y": 35119.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2379,7 +2386,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,786,0,187,1080",
+			"position": "0,0,1,-32000,-32000,-1,-1,623,860,24,1940",
 			"project": "",
 			"replace":
 			{
