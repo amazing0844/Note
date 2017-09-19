@@ -9,7 +9,7 @@
 		"/Q/Users/Hsu/Desktop/学习相关/Code"
 	],
 	"last_version": 3126,
-	"last_window_id": 10,
+	"last_window_id": 11,
 	"log_indexing": false,
 	"settings":
 	{
@@ -21,1128 +21,13 @@
 				"selected_items":
 				[
 					[
-						"IID",
-						"IMAGE_IMPORT_DESCRIPTOR"
+						"us",
+						"user32.dll\t(CodeInject.cpp)"
 					],
 					[
-						"e_l",
-						"e_lraiid"
+						"LoadL",
+						"LoadLibraryA"
 					],
-					[
-						"e_L",
-						"e_lraiid"
-					],
-					[
-						"VA",
-						"VirtualAddress"
-					],
-					[
-						"Por",
-						"PointerToRawData"
-					],
-					[
-						"Vi",
-						"VirtualSize"
-					],
-					[
-						"VI",
-						"VirtualAddress"
-					],
-					[
-						"NU",
-						"NumberOfSections"
-					],
-					[
-						"IDD",
-						"IMAGE_DATA_DIRECTORY"
-					],
-					[
-						"size",
-						"sizeof"
-					],
-					[
-						"e_",
-						"e_lraidd"
-					],
-					[
-						"e_id",
-						"e_lraidd"
-					],
-					[
-						"Sho",
-						"ShowINT"
-					],
-					[
-						"Sh",
-						"ShowINT\t(main.cpp)"
-					],
-					[
-						"inf",
-						"ifnd\tifndef (…)"
-					],
-					[
-						"in",
-						"ifnd\tifndef (…)"
-					],
-					[
-						"Ex",
-						"Executable\t(DisAsm.md)"
-					],
-					[
-						"Poi",
-						"PointerToRawData\t(DisAsm.md)"
-					],
-					[
-						"Siz",
-						"SizeofRawData\t(DisAsm.md)"
-					],
-					[
-						"sec",
-						"section"
-					],
-					[
-						"NB",
-						"NumberOfSections"
-					],
-					[
-						"Optional",
-						"OptionalHeader\t(DisAsm.md)"
-					],
-					[
-						"O",
-						"Optionalheader\t(DisAsm.md)"
-					],
-					[
-						"Sec",
-						"SectionAlignment\t(DisAsm.md)"
-					],
-					[
-						"Neb",
-						"NumberOfSections\t(DisAsm.md)"
-					],
-					[
-						"sys",
-						"system"
-					],
-					[
-						"INH",
-						"IMAGE_NT_HEADERS32\t(DisAsm.md)"
-					],
-					[
-						"ar",
-						"argv"
-					],
-					[
-						"Sl",
-						"SleepTime"
-					],
-					[
-						"ret",
-						"return"
-					],
-					[
-						"ind",
-						"ifnd\tifndef (…)"
-					],
-					[
-						"根据PE",
-						"根据PE规范"
-					],
-					[
-						"修改",
-						"修改IMAGE_FILE_HEADER.SizeOfOptionalHeader的值"
-					],
-					[
-						"IDH",
-						"IMAGE_DOS_HEADER"
-					],
-					[
-						"画面",
-						"画面不显示"
-					],
-					[
-						"Fi",
-						"FirstThunk"
-					],
-					[
-						"IM",
-						"IMAGE_IMPORT_BY_NAME"
-					],
-					[
-						"Time",
-						"TimeDateStamp"
-					],
-					[
-						"Onc",
-						"OnClick"
-					],
-					[
-						"vie",
-						"viewgroup是容器"
-					],
-					[
-						"Vir",
-						"VirtualAddress"
-					],
-					[
-						"Pointr",
-						"PointerToRawData"
-					],
-					[
-						"Nub",
-						"NumberOfRvaAndSizes"
-					],
-					[
-						"Dow",
-						"DWORD"
-					],
-					[
-						"Da",
-						"DataDirectory"
-					],
-					[
-						"Addr",
-						"AddressOfEntryPoint"
-					],
-					[
-						"IMA",
-						"IMAGE_NT_HEADERS"
-					],
-					[
-						"Num",
-						"NumberOfSections"
-					],
-					[
-						"Wo",
-						"WORD"
-					],
-					[
-						"Ctrl",
-						"Ctrl+F2"
-					],
-					[
-						"送入",
-						"送入通用寄存器"
-					],
-					[
-						"标志",
-						"标志寄存器的值入栈"
-					],
-					[
-						"P",
-						"Port"
-					],
-					[
-						"As",
-						"Asm-ExCh10-2\t(Asm-CallRet.md)"
-					],
-					[
-						"Asm-ExCh10",
-						"Asm-ExCh10-1\t(Asm-CallRet.md)"
-					],
-					[
-						"Asm",
-						"Asm-ExCh09-1"
-					],
-					[
-						"Asm-ExCh09",
-						"Asm-ExCh09-1\t(Asm-Jmp.md)"
-					],
-					[
-						"Asm-B",
-						"Asm-Bx_Loop\t(Study-Notes.md)"
-					],
-					[
-						"80",
-						"80x86Cpu\t(Study-Notes.md)"
-					],
-					[
-						"div",
-						"div\t<div>"
-					],
-					[
-						"s",
-						"s"
-					],
-					[
-						"ss",
-						"stacksg"
-					],
-					[
-						"cl",
-						"cl"
-					],
-					[
-						"es",
-						"es"
-					],
-					[
-						"sta",
-						"stacksg"
-					],
-					[
-						"loo",
-						"loop2"
-					],
-					[
-						"job",
-						"jobicon"
-					],
-					[
-						"at",
-						"attribute"
-					],
-					[
-						"marge",
-						"margin: 〔property〕"
-					],
-					[
-						"bes",
-						"bestx"
-					],
-					[
-						"bs",
-						"bestx"
-					],
-					[
-						"lc",
-						"LCSLength"
-					],
-					[
-						"ma",
-						"main\tmain()"
-					],
-					[
-						"b",
-						"b\"BOSS"
-					],
-					[
-						"ta",
-						"targetText"
-					],
-					[
-						"right",
-						"right"
-					],
-					[
-						"me",
-						"MergeSort"
-					],
-					[
-						"is",
-						"isEulerianGraph"
-					],
-					[
-						"f",
-						"format〔function〕"
-					],
-					[
-						"whi",
-						"while\tWhile loop"
-					],
-					[
-						"inc",
-						"inc\t#include <…>"
-					],
-					[
-						"noE",
-						"noEdge\t(graph.h)"
-					],
-					[
-						"no",
-						"noEdge"
-					],
-					[
-						"en",
-						"enQueue\t(queue.h)"
-					],
-					[
-						"ne",
-						"nextArc\t(graph.h)"
-					],
-					[
-						"tr",
-						"true\t(graph.h)"
-					],
-					[
-						"gr",
-						"graph.h"
-					],
-					[
-						"con",
-						"const"
-					],
-					[
-						"ex",
-						"exist"
-					],
-					[
-						"nex",
-						"nextArc"
-					],
-					[
-						"bo",
-						"booking"
-					],
-					[
-						"va",
-						"value"
-					],
-					[
-						"ticke",
-						"ticket_num"
-					],
-					[
-						"doc",
-						"document"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"inputr",
-						"inputr\tinput - reset"
-					],
-					[
-						"inputs",
-						"inputs\tinput - submit"
-					],
-					[
-						"input",
-						"inputn\tinput - number"
-					],
-					[
-						"dis",
-						"displayMenu"
-					],
-					[
-						"inp",
-						"inputb\tinput - button"
-					],
-					[
-						"lb",
-						"label\t<label>"
-					],
-					[
-						"opt",
-						"option\tTag"
-					],
-					[
-						"sel",
-						"select\t<select>"
-					],
-					[
-						"optio",
-						"option"
-					],
-					[
-						"opti",
-						"option\tTag"
-					],
-					[
-						"lab",
-						"label\tAttr"
-					],
-					[
-						"labe",
-						"label\t<label>"
-					],
-					[
-						"add",
-						"addActionListener"
-					],
-					[
-						"tt",
-						"txt"
-					],
-					[
-						"txt",
-						"txtField2"
-					],
-					[
-						"e",
-						"erase"
-					],
-					[
-						"ifs",
-						"ifstream"
-					],
-					[
-						"tex",
-						"textfile.txt"
-					],
-					[
-						"fc",
-						"fclose"
-					],
-					[
-						"code",
-						"codefile.txt"
-					],
-					[
-						"ec",
-						"encoding"
-					],
-					[
-						"el",
-						"element\t(binaryTree.h)"
-					],
-					[
-						"nul",
-						"NULL"
-					],
-					[
-						"preo",
-						"preOrder\t(binaryTree.h)"
-					],
-					[
-						"cha",
-						"characters"
-					],
-					[
-						"cho",
-						"chooseOption"
-					],
-					[
-						"ad",
-						"adjustUp"
-					],
-					[
-						"h",
-						"hfmTree\t(hfmTree.h)"
-					],
-					[
-						"get",
-						"getHeightOfTree"
-					],
-					[
-						"ge",
-						"getFront\t(queue.h)"
-					],
-					[
-						"m",
-						"mSize\t(queue.h)"
-					],
-					[
-						"sq",
-						"seqQueue"
-					],
-					[
-						"lef",
-						"leftToRightOrder"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 375.0,
-				"last_filter": "cp",
-				"selected_items":
-				[
-					[
-						"cp",
-						"Build With: cpp - CMD Run"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					],
-					[
-						"ssm",
-						"Set Syntax: Markdown GFM"
-					],
-					[
-						"ssme",
-						"Set Syntax: Markdown Extended"
-					],
-					[
-						"ssmg",
-						"Set Syntax: Markdown GFM"
-					],
-					[
-						"sspl",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"mark",
-						"Set Syntax: Markdown GFM"
-					],
-					[
-						"sstex",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"pac",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"p",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"pa",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"toc",
-						"MarkdownTOC:Insert TOC"
-					],
-					[
-						"markpre",
-						"OmniMarkupPreviewer: Preview Current Markup in Browser"
-					],
-					[
-						"packk",
-						"Package Control: List Packages"
-					],
-					[
-						"cpp",
-						"Build With: cpp - Run in sublime"
-					],
-					[
-						"",
-						"Build With: C++ Single File"
-					],
-					[
-						"1",
-						"Emmet: Decrement Number by 1"
-					],
-					[
-						"aot",
-						"AutoPEP8: Format Code"
-					],
-					[
-						"j",
-						"Build With: JavaC"
-					],
-					[
-						"jav",
-						"Build With: JavaC"
-					],
-					[
-						"ja",
-						"Build With: JavaC"
-					],
-					[
-						"jac",
-						"Build With: JavaC"
-					],
-					[
-						"packag",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"package control",
-						"Package Control: List Packages"
-					],
-					[
-						"javac",
-						"Build With: JavaC"
-					],
-					[
-						" ",
-						"Build With: JavaC"
-					],
-					[
-						"pep",
-						"AutoPEP8: Format Code"
-					],
-					[
-						"bu",
-						"Build With: C++ Single File"
-					],
-					[
-						"insat",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"run",
-						"Build With: cpp - CMD Run"
-					],
-					[
-						"bul",
-						"Build With: cpp"
-					],
-					[
-						"autos",
-						"Toggle AutoSave: current file only"
-					],
-					[
-						"buli",
-						"Build With: cpp"
-					],
-					[
-						"pyt",
-						"Build With: Python - Syntax Check"
-					],
-					[
-						"autosav",
-						"Toggle AutoSave: current file only"
-					],
-					[
-						"auto",
-						"Toggle AutoSave: current file only"
-					],
-					[
-						"aut",
-						"Toggle AutoSave Backup: current file only"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"py",
-						"Build With: Python"
-					],
-					[
-						"pyth",
-						"Build With: Python"
-					],
-					[
-						"package re",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"table editor",
-						"Table Editor: Enable for current view"
-					],
-					[
-						"eremov",
-						"Package Control: Remove Package"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 522.0
-			},
-			"console":
-			{
-				"height": 162.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Q/Users/Hsu/Documents/GitHub/PEViewer/test.cpp",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
-				"/Q/Users/Hsu/Documents/GitHub/PEViewer/h/PEHeader.h",
-				"/Q/Users/Hsu/Documents/GitHub/h/PE.h",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Some-Experiments.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Study-Notes.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Asm.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsmEx.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Android/AndroidEx.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Android/Android.md",
-				"/Q/Windows/System32/drivers/etc/hosts",
-				"/Q/Users/Hsu/Desktop/hosts",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch15 prac.asm",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/AsmEx.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Python/Discrete Mathematics/ex2/Ex2.py",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Python/Discrete Mathematics/ex3/Ex3.py",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Python/Discrete Mathematics/ex4/Ex4.py",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch10 ex1.asm",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Algorithm/Ex1/Sort.cpp",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Algorithm/Ex3/LoadingQuestion.cpp",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Codehouse S1/Part II/完数.c",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Codehouse S1/Part II/素数.c",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Basic.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh08.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-DataPro.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Pict/Asm-ExCh08_Pic.png",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-MultiSeg.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-MemAccess.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-LocFlex.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Jmp.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Debug.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-CallRet.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Bx_Loop.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-1stPro.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Register.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-PSW.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-In_Interrupt.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownTOC.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh10-2.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh10-1.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh09-1.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch9 ex2.asm",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh09-2.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh09.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch9 ex1.asm",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Chap/Asm-Jmp.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-DataPro.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh06.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch14 work.asm",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Package Control/Main.sublime-menu",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Package Control/messages/1.3.0.txt",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch6 ex.asm",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-MemAccess.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-LocFlex.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Home.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Register.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-MultiSeg.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Bx_Loop.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Basic.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-1stPro.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-ExCh06.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Other.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Debug.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Register.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Basic.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Study Materials/Reference Books.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note/README.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Java/A.java",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/C++.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/C++.sublime-syntax",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/a.c",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/do...while-loop-(do).sublime-snippet",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/if-..-(if).sublime-snippet",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/c.c",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/1.py",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Markdown Extended.sublime-settings",
-				"/Q/Users/Hsu/Documents/GitHub/Note/README_170816100259.html",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/12",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Study-Notes.html",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/OmniMarkupPreviewer.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/samples/README.md",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/DisAsm/hello.cpp",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch15 prac.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch14 work.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch10 ex2.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch10 ex1.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch9 ex2.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch9 ex1.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch8 ex.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/test.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch6 ex.asm",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/asm.sublime-build",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Java/JavaC.sublime-build",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Python/Python.sublime-build",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/C/Njupt/算法/1.13.cpp",
-				"/P/最终幻想XIV/ACT/dpshow/miniparse-n in one.html",
-				"/P/最终幻想XIV/ACT/dpshow/miniparse-user-defined.html",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/C/Njupt/算法/Ex2/MatrixChain.cpp",
-				"/P/最终幻想XIV/ACT/dpshow/miniparse-d-1.html"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 98.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"IMAGE_DATA_DIRECTORY",
-					"debug",
-					">",
-					"> ",
-					"PNH",
-					"IsPE",
-					"\\t",
-					"\\+... ",
-					"pe",
-					"es",
-					"si",
-					"src",
-					"IAT",
-					"，",
-					",([^\\ ])",
-					"（(.+)）",
-					"，",
-					"、",
-					"，",
-					"RAW",
-					"bit OR",
-					";\n",
-					"dos",
-					"call",
-					"他",
-					"他们",
-					"、",
-					"：",
-					"，",
-					"Asm-ExCh([\\d-]*)",
-					"#Chapter",
-					"Chapter",
-					"AsmEx",
-					"AsmEx-",
-					"Think And Solve\\]\\(Asm-ExCh(.*?)\\)",
-					"Think And Solve](Asm-ExCh09-1)",
-					"Think And Solve\\]\\(Asm-ExCh(.*?)\\)",
-					"\\] :",
-					": #",
-					"86",
-					"\\]\\(",
-					"- ",
-					"\\((.*?)\\)",
-					"\\\\\\[(.*?)\\\\\\]",
-					"\\\\\\[.*?\\\\\\]",
-					"\\\\\\[.*\\\\\\]",
-					"\\\\[.*\\\\]",
-					"实验",
-					"-",
-					"### 数据处理的两个基本问题\n\n+ bx, si, di, bp\n    * 80x86CPU中，有且只有四个寄存器(bx, si, di, bp)可以用在'\\[...\\]'进行内存单元的寻址\n    * bx和bp不能同时出现在一个'\\[ \\]'中\n    * si和di不能同时出现在一个'\\[ \\]'中\n    * 只要没有显式指明段地址，若bp出现，则默认为ss段，否则为ds段\n\n+ 机器指令处理的数据所在位置\n    * 绝大部分机器指令都是进行数据处理(读取、写入、运算)的指令\n    * 指令所要处理的数据可以位于CPU内部、内存、端口\n\n+ 指令要处理的数据有多长\n    * 通过寄存器名指明要处理的数据长度\n    * 没有寄存器名的情况下，用操作符X ptr(X = byte/word/dword/qword)指明内存单元的长度\n    * 有些指令默认了数据长度，例如: push、pop\n\n+ div\n    * *除法指令div(division)* : `div    r/m`\n    * 除数: 8-bits/16-bits，在寄存器或内存单元中\n    * 被除数: (默认)放在ax(8-bits)或dx(high)和ax(low)(16-bits)中\n    * 商: al(8-bits)或ax(16-bits)\n    * 余数: ah(8-bits)或dx(16-bits)\n\n+ dup\n    * 伪指令 *dup(duplication)*\n    * 配合db、dw、dd等伪指令使用\n    * `db   x dup(y)    ;重复定义x次数据y`\n\n### 实验: \n    > Power idea 公司从1975年成立一直到1995年的基本情况如下\n    > \n    > 年份    收入(千美元)     雇佣(人)       人均收入(千美元)\n    > 1975      16              3                   ?\n    > 1976      22              7                   ?\n    > 1977      38              9                   ?\n    > ...\n    > 1995      5937000         17800               ?\n    > \n    > 下面的程序中，已经定义好了这些数据\n\n```\nassume cs:codesg, ds:datasg, ss:stacksg\n\ndatasg segment\n    db     '1975','1976','1977','1978','1979','1980','1981','1982','1983'\n    db     '1984','1985','1986','1987','1988','1989','1990','1991','1992'\n    db     '1993','1994','1995'    ; 21年\n    dd      16, 22, 382, 1356, 2390, 8000, 16000, 24486, 50065 \n    dd      97479, 140417, 197514, 345980, 590827, 803530, 1183000, 1843000, 2759000\n    dd      3753000, 4649000, 5937000    ; 21年内的总收入\n    dw      3, 7, 9, 12, 28, 38, 130, 220, 476\n    dw      778, 1001, 1442, 2258, 2793, 4037, 5635, 8226, 11542\n    dw      14430, 15257, 17800  ; 21年雇佣员工数\ndatasg ends\n\ntable segment\n    db      21  dup('year summ ne ?? ')\ntable ends\n```\n\n    > 编程，将data段中的数据按如下格式写入到table段中，并计算21年中的人均收入(\n    > 取整)，结果也按照下面的格式保存在table段中\n\n    >            |  年份(4B) | 空| 收入(4B) | 空|雇员数(2B)|空|人均收入(2B)| 空\n    > 行内地址   |  0 1 2 3  | 4 |  5 6 7 8 |  9|  A    B  | C|   D    E   | F\n    > 行首地址   |           |   |          |   |          |  |            |   \n    > table:0    | '1 9 7 5' |   |     16   |   |    3     |  |     ??     |\n    > table:10H  | '1 9 7 6' |   |     22   |   |    7     |  |     ??     | \n\n[Think And Solve](Asm-ExCh08)\n\n[Previous Chapter](Asm-LocFlex)\n\n[Next Chapter](Asm-Jmp)\n",
-					"Previouse",
-					"loop",
-					"jmp",
-					"loop",
-					"enter",
-					"auto",
-					"highlight",
-					"packages",
-					"auto",
-					"4.",
-					"2.",
-					"1.",
-					"6.",
-					"5.",
-					"4.",
-					"3.",
-					"2.",
-					"1.",
-					"4.",
-					"3.",
-					"1.",
-					"2.",
-					"1.",
-					"2.",
-					"2",
-					"1",
-					"Experments",
-					"c",
-					"enter",
-					"CPU",
-					"cpu",
-					"CPU",
-					"cpu",
-					"机器语言是机器的指令集合，由cpu直接执行",
-					"32、64位cpu中的拓展同通用寄存器",
-					"sour",
-					"build",
-					"Delay 1",
-					"data-id",
-					"sort",
-					"data",
-					"sortval",
-					"sort",
-					"秒伤",
-					"data-id",
-					"sort",
-					"div",
-					"span",
-					"div",
-					"totcov2",
-					"topliner",
-					"totcov2",
-					"top tth\"",
-					"rdpshps",
-					"topliner",
-					"rdpshps",
-					"秒伤",
-					"[];\n",
-					"dpsmeter",
-					"hpsmeter",
-					"dpsmeter",
-					"cont_name",
-					"namev",
-					");\n",
-					"namev",
-					"sortkey",
-					"sortval",
-					"sort.sortval",
-					"sort",
-					"buttons sort",
-					"data-id",
-					"sort",
-					"秒疗",
-					"undefined",
-					"sort",
-					"detailview",
-					"marker",
-					"encounters"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"   ",
-					"\\t ",
-					", ",
-					", $1",
-					"($1)",
-					"(($1))",
-					", ",
-					"它",
-					", ",
-					": ",
-					", ",
-					"AsmEx#chapter-$1",
-					"#chapter",
-					"Chapter-",
-					"AsmEx#",
-					"Think And Solve\\]\\(AsmEx-Chapter$1\\)",
-					"Think And Solve\\]\\(AsmEx-Chapter(.*?)\\)",
-					"]:",
-					": Asm#",
-					"] : (",
-					"",
-					"[$1]",
-					"Previous"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 28.0
-			},
-			"input":
-			{
-				"height": 58.0
-			},
-			"menu_visible": true,
-			"output.autopep8":
-			{
-				"height": 252.0
-			},
-			"output.exec":
-			{
-				"height": 99.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 68.0
-			},
-			"save_all_on_build": false,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 250.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1062.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"mod",
 						"modBaseAddr"
@@ -1646,30 +531,9 @@
 					[
 						"txt",
 						"txtField2"
-					],
-					[
-						"e",
-						"erase"
-					],
-					[
-						"ifs",
-						"ifstream"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
-					"settings":
-					{
-						"buffer_size": 43565,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -1893,17 +757,17 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/Q/Users/Hsu/Documents/GitHub",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm"
-			],
 			"file_history":
 			[
+				"/Q/AsmTools/1.asm",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Asm.md",
+				"/Q/Users/Hsu/Documents/GitHub/1.txt",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/README.md",
+				"/Q/Users/Hsu/Desktop/root.png",
+				"/Q/Users/Hsu/Documents/GitHub/test.lsp",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/EjectDll.cpp",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/myhacker.cpp",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/HookMain.cpp",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/KeyHook.cpp",
 				"/Q/Users/Hsu/Documents/GitHub/Note/Sublime Text 3/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
@@ -1923,7 +787,6 @@
 				"/Q/Users/Hsu/Documents/GitHub/h/PE.h",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Some-Experiments.md",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Study-Notes.md",
-				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Asm.md",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsmEx.md",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Android/AndroidEx.md",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Android/Android.md",
@@ -2023,12 +886,7 @@
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/12",
 				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Study-Notes.html",
 				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/OmniMarkupPreviewer.sublime-settings",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/samples/README.md",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/DisAsm/hello.cpp",
-				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch15 prac.asm",
-				"/Q/Users/Hsu/Desktop/学习相关/Code/Asm/ch14 work.asm"
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/OmniMarkupPreviewer.sublime-settings"
 			],
 			"find":
 			{
@@ -2047,6 +905,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ret",
+					"Crash",
+					"JZD",
+					"ssget",
+					"zdarea",
+					"getvar",
+					"getreal",
+					"zdt",
+					"command \"layer\" \"m\" \"JZD\"",
+					"ommand \"layer\"",
 					"钩子链表",
 					"（(.*?)）",
 					"，",
@@ -2164,17 +1032,7 @@
 					"div",
 					"totcov2",
 					"topliner",
-					"totcov2",
-					"top tth\"",
-					"rdpshps",
-					"topliner",
-					"rdpshps",
-					"秒伤",
-					"[];\n",
-					"dpsmeter",
-					"hpsmeter",
-					"dpsmeter",
-					"cont_name"
+					"totcov2"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2182,6 +1040,1150 @@
 				"regex": true,
 				"replace_history":
 				[
+					"Img crashed",
+					"钩链",
+					"($1)",
+					", ",
+					"   ",
+					"\\t ",
+					", ",
+					", $1",
+					"($1)",
+					"(($1))",
+					", ",
+					"它",
+					", ",
+					": ",
+					", ",
+					"AsmEx#chapter-$1",
+					"#chapter",
+					"Chapter-",
+					"AsmEx#",
+					"Think And Solve\\]\\(AsmEx-Chapter$1\\)",
+					"Think And Solve\\]\\(AsmEx-Chapter(.*?)\\)",
+					"]:",
+					": Asm#",
+					"] : (",
+					"",
+					"[$1]",
+					"Previous"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 58.0
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 252.0
+			},
+			"output.exec":
+			{
+				"height": 99.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 250.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1062.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"VirtualA",
+						"VirtualAllocEx"
+					],
+					[
+						"Vit",
+						"Virtual"
+					],
+					[
+						"Inj",
+						"InjectCode"
+					],
+					[
+						"us",
+						"user32.dll\t(CodeInject.cpp)"
+					],
+					[
+						"LoadL",
+						"LoadLibraryA"
+					],
+					[
+						"mod",
+						"modBaseAddr"
+					],
+					[
+						"PROCE",
+						"PROCESS_ALL_ACCESS"
+					],
+					[
+						"Crea",
+						"CreateToolhelp32Snapshot"
+					],
+					[
+						"Wind",
+						"Windows"
+					],
+					[
+						"N",
+						"NULL"
+					],
+					[
+						"LP",
+						"LPVOID"
+					],
+					[
+						"Tch",
+						"TCHAR"
+					],
+					[
+						"Pr",
+						"PrintStrByRaw"
+					],
+					[
+						"AN",
+						"AddressOfNames\t(DisAsm.md)"
+					],
+					[
+						"Af",
+						"AddressOfFunctions\t(DisAsm.md)"
+					],
+					[
+						"IED",
+						"IMAGE_EXPORT_DIRECTORY"
+					],
+					[
+						"e_l",
+						"e_lraiid"
+					],
+					[
+						"e_",
+						"e_lraidd"
+					],
+					[
+						"sp",
+						"stackPop"
+					],
+					[
+						"retu",
+						"return"
+					],
+					[
+						"sta",
+						"stackPush"
+					],
+					[
+						"sa",
+						"stackPush"
+					],
+					[
+						"stac",
+						"stackPop"
+					],
+					[
+						"IID",
+						"IMAGE_IMPORT_DESCRIPTOR"
+					],
+					[
+						"e_L",
+						"e_lraiid"
+					],
+					[
+						"VA",
+						"VirtualAddress"
+					],
+					[
+						"Por",
+						"PointerToRawData"
+					],
+					[
+						"Vi",
+						"VirtualSize"
+					],
+					[
+						"VI",
+						"VirtualAddress"
+					],
+					[
+						"NU",
+						"NumberOfSections"
+					],
+					[
+						"IDD",
+						"IMAGE_DATA_DIRECTORY"
+					],
+					[
+						"size",
+						"sizeof"
+					],
+					[
+						"e_id",
+						"e_lraidd"
+					],
+					[
+						"Sho",
+						"ShowINT"
+					],
+					[
+						"Sh",
+						"ShowINT\t(main.cpp)"
+					],
+					[
+						"inf",
+						"ifnd\tifndef (…)"
+					],
+					[
+						"in",
+						"ifnd\tifndef (…)"
+					],
+					[
+						"Ex",
+						"Executable\t(DisAsm.md)"
+					],
+					[
+						"Poi",
+						"PointerToRawData\t(DisAsm.md)"
+					],
+					[
+						"Siz",
+						"SizeofRawData\t(DisAsm.md)"
+					],
+					[
+						"sec",
+						"section"
+					],
+					[
+						"NB",
+						"NumberOfSections"
+					],
+					[
+						"Optional",
+						"OptionalHeader\t(DisAsm.md)"
+					],
+					[
+						"O",
+						"Optionalheader\t(DisAsm.md)"
+					],
+					[
+						"Sec",
+						"SectionAlignment\t(DisAsm.md)"
+					],
+					[
+						"Neb",
+						"NumberOfSections\t(DisAsm.md)"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"INH",
+						"IMAGE_NT_HEADERS32\t(DisAsm.md)"
+					],
+					[
+						"ar",
+						"argv"
+					],
+					[
+						"Sl",
+						"SleepTime"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"ind",
+						"ifnd\tifndef (…)"
+					],
+					[
+						"根据PE",
+						"根据PE规范"
+					],
+					[
+						"修改",
+						"修改IMAGE_FILE_HEADER.SizeOfOptionalHeader的值"
+					],
+					[
+						"IDH",
+						"IMAGE_DOS_HEADER"
+					],
+					[
+						"画面",
+						"画面不显示"
+					],
+					[
+						"Fi",
+						"FirstThunk"
+					],
+					[
+						"IM",
+						"IMAGE_IMPORT_BY_NAME"
+					],
+					[
+						"Time",
+						"TimeDateStamp"
+					],
+					[
+						"Onc",
+						"OnClick"
+					],
+					[
+						"vie",
+						"viewgroup是容器"
+					],
+					[
+						"Vir",
+						"VirtualAddress"
+					],
+					[
+						"Pointr",
+						"PointerToRawData"
+					],
+					[
+						"Nub",
+						"NumberOfRvaAndSizes"
+					],
+					[
+						"Dow",
+						"DWORD"
+					],
+					[
+						"Da",
+						"DataDirectory"
+					],
+					[
+						"Addr",
+						"AddressOfEntryPoint"
+					],
+					[
+						"IMA",
+						"IMAGE_NT_HEADERS"
+					],
+					[
+						"Num",
+						"NumberOfSections"
+					],
+					[
+						"Wo",
+						"WORD"
+					],
+					[
+						"Ctrl",
+						"Ctrl+F2"
+					],
+					[
+						"送入",
+						"送入通用寄存器"
+					],
+					[
+						"标志",
+						"标志寄存器的值入栈"
+					],
+					[
+						"P",
+						"Port"
+					],
+					[
+						"As",
+						"Asm-ExCh10-2\t(Asm-CallRet.md)"
+					],
+					[
+						"Asm-ExCh10",
+						"Asm-ExCh10-1\t(Asm-CallRet.md)"
+					],
+					[
+						"Asm",
+						"Asm-ExCh09-1"
+					],
+					[
+						"Asm-ExCh09",
+						"Asm-ExCh09-1\t(Asm-Jmp.md)"
+					],
+					[
+						"Asm-B",
+						"Asm-Bx_Loop\t(Study-Notes.md)"
+					],
+					[
+						"80",
+						"80x86Cpu\t(Study-Notes.md)"
+					],
+					[
+						"div",
+						"div\t<div>"
+					],
+					[
+						"s",
+						"s"
+					],
+					[
+						"ss",
+						"stacksg"
+					],
+					[
+						"cl",
+						"cl"
+					],
+					[
+						"es",
+						"es"
+					],
+					[
+						"loo",
+						"loop2"
+					],
+					[
+						"job",
+						"jobicon"
+					],
+					[
+						"at",
+						"attribute"
+					],
+					[
+						"marge",
+						"margin: 〔property〕"
+					],
+					[
+						"bes",
+						"bestx"
+					],
+					[
+						"bs",
+						"bestx"
+					],
+					[
+						"lc",
+						"LCSLength"
+					],
+					[
+						"ma",
+						"main\tmain()"
+					],
+					[
+						"b",
+						"b\"BOSS"
+					],
+					[
+						"ta",
+						"targetText"
+					],
+					[
+						"right",
+						"right"
+					],
+					[
+						"me",
+						"MergeSort"
+					],
+					[
+						"is",
+						"isEulerianGraph"
+					],
+					[
+						"f",
+						"format〔function〕"
+					],
+					[
+						"whi",
+						"while\tWhile loop"
+					],
+					[
+						"inc",
+						"inc\t#include <…>"
+					],
+					[
+						"noE",
+						"noEdge\t(graph.h)"
+					],
+					[
+						"no",
+						"noEdge"
+					],
+					[
+						"en",
+						"enQueue\t(queue.h)"
+					],
+					[
+						"ne",
+						"nextArc\t(graph.h)"
+					],
+					[
+						"tr",
+						"true\t(graph.h)"
+					],
+					[
+						"gr",
+						"graph.h"
+					],
+					[
+						"con",
+						"const"
+					],
+					[
+						"ex",
+						"exist"
+					],
+					[
+						"nex",
+						"nextArc"
+					],
+					[
+						"bo",
+						"booking"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"ticke",
+						"ticket_num"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"inputr",
+						"inputr\tinput - reset"
+					],
+					[
+						"inputs",
+						"inputs\tinput - submit"
+					],
+					[
+						"input",
+						"inputn\tinput - number"
+					],
+					[
+						"dis",
+						"displayMenu"
+					],
+					[
+						"inp",
+						"inputb\tinput - button"
+					],
+					[
+						"lb",
+						"label\t<label>"
+					],
+					[
+						"opt",
+						"option\tTag"
+					],
+					[
+						"sel",
+						"select\t<select>"
+					],
+					[
+						"optio",
+						"option"
+					],
+					[
+						"opti",
+						"option\tTag"
+					],
+					[
+						"lab",
+						"label\tAttr"
+					],
+					[
+						"labe",
+						"label\t<label>"
+					],
+					[
+						"add",
+						"addActionListener"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 160.0,
+				"last_filter": "autopep8",
+				"selected_items":
+				[
+					[
+						"autopep8",
+						"AutoPEP8: Format Code"
+					],
+					[
+						"pep",
+						"AutoPEP8: Format Code"
+					],
+					[
+						"cp",
+						"Build With: cpp - CMD Run"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"ssm",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"ssme",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"ssmg",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"sspl",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"sstex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"pac",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"p",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pa",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"toc",
+						"MarkdownTOC:Insert TOC"
+					],
+					[
+						"markpre",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"packk",
+						"Package Control: List Packages"
+					],
+					[
+						"cpp",
+						"Build With: cpp - Run in sublime"
+					],
+					[
+						"",
+						"Build With: C++ Single File"
+					],
+					[
+						"1",
+						"Emmet: Decrement Number by 1"
+					],
+					[
+						"aot",
+						"AutoPEP8: Format Code"
+					],
+					[
+						"j",
+						"Build With: JavaC"
+					],
+					[
+						"jav",
+						"Build With: JavaC"
+					],
+					[
+						"ja",
+						"Build With: JavaC"
+					],
+					[
+						"jac",
+						"Build With: JavaC"
+					],
+					[
+						"packag",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package control",
+						"Package Control: List Packages"
+					],
+					[
+						"javac",
+						"Build With: JavaC"
+					],
+					[
+						" ",
+						"Build With: JavaC"
+					],
+					[
+						"bu",
+						"Build With: C++ Single File"
+					],
+					[
+						"insat",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"run",
+						"Build With: cpp - CMD Run"
+					],
+					[
+						"bul",
+						"Build With: cpp"
+					],
+					[
+						"autos",
+						"Toggle AutoSave: current file only"
+					],
+					[
+						"buli",
+						"Build With: cpp"
+					],
+					[
+						"pyt",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"autosav",
+						"Toggle AutoSave: current file only"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: current file only"
+					],
+					[
+						"aut",
+						"Toggle AutoSave Backup: current file only"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"py",
+						"Build With: Python"
+					],
+					[
+						"pyth",
+						"Build With: Python"
+					],
+					[
+						"package re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"table editor",
+						"Table Editor: Enable for current view"
+					],
+					[
+						"eremov",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 522.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Q/Users/Hsu/Documents/GitHub",
+				"/Q/Users/Hsu/Documents/GitHub/Note",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm",
+				"/Q/Users/Hsu/Documents/GitHub/TianChi"
+			],
+			"file_history":
+			[
+				"/Q/Users/Hsu/Documents/GitHub/TianChi/view3.py",
+				"/Q/Users/Hsu/Documents/GitHub/TianChi/view2.py",
+				"/Q/Users/Hsu/Documents/GitHub/TianChi/View.py",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/CodeInject.cpp",
+				"/Q/AsmTools/1.asm",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Asm.md",
+				"/Q/Users/Hsu/Documents/GitHub/1.txt",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/README.md",
+				"/Q/Users/Hsu/Desktop/root.png",
+				"/Q/Users/Hsu/Documents/GitHub/test.lsp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/EjectDll.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/myhacker.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/HookMain.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/KeyHook.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Sublime Text 3/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/example.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/InjectDll.cpp",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/DisAsm/myhacker_selfattempt.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/myhack.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/test.asm",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/h/main.h",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/h/PE.h",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/main.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/ASP.NET/WebForm-CH01/实验/Readme",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/h/stack.h",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/test.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/PEViewer/h/PEHeader.h",
+				"/Q/Users/Hsu/Documents/GitHub/h/PE.h",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Some-Experiments.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Study-Notes.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsmEx.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Android/AndroidEx.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Android/Android.md",
+				"/Q/Windows/System32/drivers/etc/hosts",
+				"/Q/Users/Hsu/Desktop/hosts",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch15 prac.asm",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/AsmEx.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Python/Discrete Mathematics/ex2/Ex2.py",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Python/Discrete Mathematics/ex3/Ex3.py",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Python/Discrete Mathematics/ex4/Ex4.py",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch10 ex1.asm",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Algorithm/Ex1/Sort.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Algorithm/Ex3/LoadingQuestion.cpp",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Codehouse S1/Part II/完数.c",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/C/College/Codehouse S1/Part II/素数.c",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Basic.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh08.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-DataPro.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Pict/Asm-ExCh08_Pic.png",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-MultiSeg.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-MemAccess.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-LocFlex.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Jmp.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Debug.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-CallRet.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Bx_Loop.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-1stPro.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-Register.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-PSW.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Chap/Asm-In_Interrupt.md",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownTOC.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh10-2.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh10-1.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh09-1.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch9 ex2.asm",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh09-2.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh09.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch9 ex1.asm",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Chap/Asm-Jmp.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-DataPro.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Expe/Asm-ExCh06.md",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch14 work.asm",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Package Control/Main.sublime-menu",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Package Control/messages/1.3.0.txt",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Asm/ch6 ex.asm",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-MemAccess.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-LocFlex.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Home.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Register.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-MultiSeg.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Bx_Loop.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Basic.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-1stPro.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-ExCh06.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Other.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm-Debug.md",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Register.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/Asm/Basic.md",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Study Materials/Reference Books.md",
+				"/Q/Users/Hsu/Documents/GitHub/Note/README.md",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note/Code/Java/A.java",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/C++.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/C++.sublime-syntax",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/a.c",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/do...while-loop-(do).sublime-snippet",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/if-..-(if).sublime-snippet",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/c.c",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note.wiki/1.py",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Markdown Extended.sublime-settings",
+				"/Q/Users/Hsu/Documents/GitHub/Note/README_170816100259.html",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/Q/Users/Hsu/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ret",
+					"Crash",
+					"JZD",
+					"ssget",
+					"zdarea",
+					"getvar",
+					"getreal",
+					"zdt",
+					"command \"layer\" \"m\" \"JZD\"",
+					"ommand \"layer\"",
+					"钩子链表",
+					"（(.*?)）",
+					"，",
+					"std",
+					"bx",
+					"ax",
+					"return 1",
+					"void",
+					"name_index",
+					"i",
+					"e_lraiid",
+					"offset",
+					"name_ch",
+					"ShowStrByRaw",
+					"nullptr",
+					"myStack",
+					"IMAGE_DATA_DIRECTORY",
+					"debug",
+					">",
+					"> ",
+					"PNH",
+					"IsPE",
+					"\\t",
+					"\\+... ",
+					"pe",
+					"es",
+					"si",
+					"src",
+					"IAT",
+					"，",
+					",([^\\ ])",
+					"（(.+)）",
+					"，",
+					"、",
+					"，",
+					"RAW",
+					"bit OR",
+					";\n",
+					"dos",
+					"call",
+					"他",
+					"他们",
+					"、",
+					"：",
+					"，",
+					"Asm-ExCh([\\d-]*)",
+					"#Chapter",
+					"Chapter",
+					"AsmEx",
+					"AsmEx-",
+					"Think And Solve\\]\\(Asm-ExCh(.*?)\\)",
+					"Think And Solve](Asm-ExCh09-1)",
+					"Think And Solve\\]\\(Asm-ExCh(.*?)\\)",
+					"\\] :",
+					": #",
+					"86",
+					"\\]\\(",
+					"- ",
+					"\\((.*?)\\)",
+					"\\\\\\[(.*?)\\\\\\]",
+					"\\\\\\[.*?\\\\\\]",
+					"\\\\\\[.*\\\\\\]",
+					"\\\\[.*\\\\]",
+					"实验",
+					"-",
+					"### 数据处理的两个基本问题\n\n+ bx, si, di, bp\n    * 80x86CPU中，有且只有四个寄存器(bx, si, di, bp)可以用在'\\[...\\]'进行内存单元的寻址\n    * bx和bp不能同时出现在一个'\\[ \\]'中\n    * si和di不能同时出现在一个'\\[ \\]'中\n    * 只要没有显式指明段地址，若bp出现，则默认为ss段，否则为ds段\n\n+ 机器指令处理的数据所在位置\n    * 绝大部分机器指令都是进行数据处理(读取、写入、运算)的指令\n    * 指令所要处理的数据可以位于CPU内部、内存、端口\n\n+ 指令要处理的数据有多长\n    * 通过寄存器名指明要处理的数据长度\n    * 没有寄存器名的情况下，用操作符X ptr(X = byte/word/dword/qword)指明内存单元的长度\n    * 有些指令默认了数据长度，例如: push、pop\n\n+ div\n    * *除法指令div(division)* : `div    r/m`\n    * 除数: 8-bits/16-bits，在寄存器或内存单元中\n    * 被除数: (默认)放在ax(8-bits)或dx(high)和ax(low)(16-bits)中\n    * 商: al(8-bits)或ax(16-bits)\n    * 余数: ah(8-bits)或dx(16-bits)\n\n+ dup\n    * 伪指令 *dup(duplication)*\n    * 配合db、dw、dd等伪指令使用\n    * `db   x dup(y)    ;重复定义x次数据y`\n\n### 实验: \n    > Power idea 公司从1975年成立一直到1995年的基本情况如下\n    > \n    > 年份    收入(千美元)     雇佣(人)       人均收入(千美元)\n    > 1975      16              3                   ?\n    > 1976      22              7                   ?\n    > 1977      38              9                   ?\n    > ...\n    > 1995      5937000         17800               ?\n    > \n    > 下面的程序中，已经定义好了这些数据\n\n```\nassume cs:codesg, ds:datasg, ss:stacksg\n\ndatasg segment\n    db     '1975','1976','1977','1978','1979','1980','1981','1982','1983'\n    db     '1984','1985','1986','1987','1988','1989','1990','1991','1992'\n    db     '1993','1994','1995'    ; 21年\n    dd      16, 22, 382, 1356, 2390, 8000, 16000, 24486, 50065 \n    dd      97479, 140417, 197514, 345980, 590827, 803530, 1183000, 1843000, 2759000\n    dd      3753000, 4649000, 5937000    ; 21年内的总收入\n    dw      3, 7, 9, 12, 28, 38, 130, 220, 476\n    dw      778, 1001, 1442, 2258, 2793, 4037, 5635, 8226, 11542\n    dw      14430, 15257, 17800  ; 21年雇佣员工数\ndatasg ends\n\ntable segment\n    db      21  dup('year summ ne ?? ')\ntable ends\n```\n\n    > 编程，将data段中的数据按如下格式写入到table段中，并计算21年中的人均收入(\n    > 取整)，结果也按照下面的格式保存在table段中\n\n    >            |  年份(4B) | 空| 收入(4B) | 空|雇员数(2B)|空|人均收入(2B)| 空\n    > 行内地址   |  0 1 2 3  | 4 |  5 6 7 8 |  9|  A    B  | C|   D    E   | F\n    > 行首地址   |           |   |          |   |          |  |            |   \n    > table:0    | '1 9 7 5' |   |     16   |   |    3     |  |     ??     |\n    > table:10H  | '1 9 7 6' |   |     22   |   |    7     |  |     ??     | \n\n[Think And Solve](Asm-ExCh08)\n\n[Previous Chapter](Asm-LocFlex)\n\n[Next Chapter](Asm-Jmp)\n",
+					"Previouse",
+					"loop",
+					"jmp",
+					"loop",
+					"enter",
+					"auto",
+					"highlight",
+					"packages",
+					"auto",
+					"4.",
+					"2.",
+					"1.",
+					"6.",
+					"5.",
+					"4.",
+					"3.",
+					"2.",
+					"1.",
+					"4.",
+					"3.",
+					"1.",
+					"2.",
+					"1.",
+					"2.",
+					"2",
+					"1",
+					"Experments",
+					"c",
+					"enter",
+					"CPU",
+					"cpu",
+					"CPU",
+					"cpu",
+					"机器语言是机器的指令集合，由cpu直接执行",
+					"32、64位cpu中的拓展同通用寄存器",
+					"sour",
+					"build",
+					"Delay 1",
+					"data-id",
+					"sort",
+					"data",
+					"sortval",
+					"sort",
+					"秒伤",
+					"data-id",
+					"sort",
+					"div",
+					"span",
+					"div",
+					"totcov2",
+					"topliner",
+					"totcov2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"Img crashed",
 					"钩链",
 					"($1)",
 					", ",
@@ -2224,114 +2226,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/Q/Users/Hsu/Documents/GitHub/Note.wiki/DisAsm/DisAsm.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 43565,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										43565,
-										43565
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 32860.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -2379,7 +2275,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,786,0,187,1080",
+			"position": "0,2,3,-32000,-32000,-1,-1,758,526,159,1606",
 			"project": "",
 			"replace":
 			{
